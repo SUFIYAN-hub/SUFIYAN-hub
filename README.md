@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sufiyan 👋
 
-<!--
-**SUFIYAN-hub/SUFIYAN-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Web Developer | MERN Stack | Self-taught  
+📚 1st-Year Engineering Student | Open to Internship Opportunities  
 
-Here are some ideas to get you started:
+### 🔧 Skills:
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Tools**: Git, GitHub, Postman, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Projects:
+
+#### 🔹 [Bayan Explorer – Full Stack Islamic Lecture Platform](https://your-live-link.com)
+> Built with Node JS, Express JS & MongoDB  
+> Features: Scholar filtering, YouTube API, categories, search, responsive UI,
+>           Automatically shows latest bayans fetched from MongoDB, Lazy Loading.
+---
+
+### 📫 Connect with Me:
+- 🔗 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sufiyan-tamboli-4064a7368)
+- 💻 [GitHub](https://github.com/SUFIYAN-hub)
+
