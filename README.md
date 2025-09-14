@@ -1,12 +1,12 @@
 # Hi, I'm Sufiyan 👋
 
 🚀 Passionate Full Stack Web Developer | MERN Stack | Self-taught  
-📚 1st-Year Engineering Student | Open to Internship Opportunities  
+📚 2nd-Year Engineering Student | Open to Internship Opportunities  
 
 ### 🔧 Skills:
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Frontend**: HTML, CSS, JavaScript, React.js,Next.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+- **Database**: MongoDB, MySQL  
 - **Tools**: Git, GitHub, Postman, REST APIs
 
 ---
