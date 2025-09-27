@@ -7,7 +7,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React.js,Next.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, MySQL  
-- **Tools**: Git, GitHub, Postman, REST APIs
+- **Tools**: Git, GitHub, Postman, REST APIs, Render, Vercel
 
 ---
 
