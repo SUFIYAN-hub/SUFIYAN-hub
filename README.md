@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Connect with Me:
-- 🔗 [Portfolio](https://your-portfolio.com)
+- 🔗 [Portfolio](https://sufiyan-portfolio-delta-one-73.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/sufiyan-tamboli-4064a7368)
 - 💻 [GitHub](https://github.com/SUFIYAN-hub)
 
